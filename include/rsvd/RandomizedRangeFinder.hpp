@@ -1,7 +1,7 @@
 #ifndef RSVD_RANDOMIZED_RANGE_FINDER_HPP_
 #define RSVD_RANDOMIZED_RANGE_FINDER_HPP_
 
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <rsvd/Constants.hpp>
 #include <rsvd/GramSchmidt.hpp>
 #include <rsvd/StandardNormalRandom.hpp>

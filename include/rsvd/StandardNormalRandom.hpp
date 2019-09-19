@@ -1,7 +1,7 @@
 #ifndef RSVD_STANDARD_NORMAL_RANDOM_HPP_
 #define RSVD_STANDARD_NORMAL_RANDOM_HPP_
 
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <cmath>
 #include <complex>
 #include <random>

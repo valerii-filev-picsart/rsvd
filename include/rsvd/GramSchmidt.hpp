@@ -1,7 +1,7 @@
 #ifndef RSVD_GRAMSCHMIDT_HPP_
 #define RSVD_GRAMSCHMIDT_HPP_
 
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include <algorithm>
 #include <limits>
 
